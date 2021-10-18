@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[Test passed]]>
+    </line>
+    <line>
+      <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526216370Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526219612Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526221148Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526222413Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526224138Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526225214Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14838" started-at="2021-08-21T16:10:10 AEST" finished-at="2021-08-21T16:10:25 AEST">
+    <groups>
+    </groups>
+    <test name="BankManagerLogin" duration-ms="6065" started-at="2021-08-21T16:10:10 AEST" finished-at="2021-08-21T16:10:16 AEST">
+      <class name="com.w2a.Testcases.BankManagerLogin">
+        <test-method status="PASS" signature="loginsa()[pri:0, instance:com.w2a.Testcases.BankManagerLogin@49ec71f8]" name="loginsa" duration-ms="5366" started-at="2021-08-21T16:10:11 AEST" finished-at="2021-08-21T16:10:16 AEST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test passed]]>
+            </line>
+            <line>
+              <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526216370Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginsa -->
+      </class> <!-- com.w2a.Testcases.BankManagerLogin -->
+    </test> <!-- BankManagerLogin -->
+    <test name="addCustomer" duration-ms="4985" started-at="2021-08-21T16:10:17 AEST" finished-at="2021-08-21T16:10:22 AEST">
+      <class name="com.w2a.Testcases.addCustomer">
+        <test-method status="PASS" signature="enterCustomerData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.Testcases.addCustomer@42a48628]" name="enterCustomerData" duration-ms="1628" started-at="2021-08-21T16:10:17 AEST" data-provider="dp" finished-at="2021-08-21T16:10:19 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[omk]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2000.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526219612Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterCustomerData -->
+        <test-method status="PASS" signature="enterCustomerData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.Testcases.addCustomer@42a48628]" name="enterCustomerData" duration-ms="781" started-at="2021-08-21T16:10:20 AEST" data-provider="dp" finished-at="2021-08-21T16:10:21 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3000.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526221148Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterCustomerData -->
+        <test-method status="PASS" signature="enterCustomerData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.Testcases.addCustomer@42a48628]" name="enterCustomerData" duration-ms="804" started-at="2021-08-21T16:10:21 AEST" data-provider="dp" finished-at="2021-08-21T16:10:22 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yrd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2500.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526222413Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterCustomerData -->
+      </class> <!-- com.w2a.Testcases.addCustomer -->
+    </test> <!-- addCustomer -->
+    <test name="OpenAccount" duration-ms="2656" started-at="2021-08-21T16:10:22 AEST" finished-at="2021-08-21T16:10:25 AEST">
+      <class name="com.w2a.Testcases.OpenAccount">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.w2a.Testcases.OpenAccount@3349e9bb]" name="setup" is-config="true" duration-ms="4822" started-at="2021-08-21T16:10:05 AEST" finished-at="2021-08-21T16:10:10 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openAccount(java.lang.String, java.lang.String)[pri:0, instance:com.w2a.Testcases.OpenAccount@3349e9bb]" name="openAccount" duration-ms="1091" started-at="2021-08-21T16:10:23 AEST" data-provider="dp" finished-at="2021-08-21T16:10:24 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ron Weasly]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526224138Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method status="PASS" signature="openAccount(java.lang.String, java.lang.String)[pri:0, instance:com.w2a.Testcases.OpenAccount@3349e9bb]" name="openAccount" duration-ms="614" started-at="2021-08-21T16:10:24 AEST" data-provider="dp" finished-at="2021-08-21T16:10:25 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harry Potter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a target =_blank  href =C:\Lingaraj\1629526225214Sat_Aug_21_16_10_05_AEST_2021pass.jpg>ScreenShotPathPassedLink</a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.Testcases.OpenAccount@3349e9bb]" name="tearDown" is-config="true" duration-ms="946" started-at="2021-08-21T16:10:25 AEST" finished-at="2021-08-21T16:10:26 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.Testcases.OpenAccount -->
+    </test> <!-- OpenAccount -->
+  </suite> <!-- Suite -->
+</testng-results>

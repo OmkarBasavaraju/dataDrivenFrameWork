@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2338" started-at="2021-08-21T23:14:29 AEST" finished-at="2021-08-21T23:14:32 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2338" started-at="2021-08-21T23:14:29 AEST" finished-at="2021-08-21T23:14:32 AEST">
+      <class name="com.w2a.Testcases.BankManagerLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.w2a.Testcases.BankManagerLogin@b9afc07]" name="setup" is-config="true" duration-ms="4146" started-at="2021-08-21T23:14:25 AEST" finished-at="2021-08-21T23:14:29 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginsa()[pri:0, instance:com.w2a.Testcases.BankManagerLogin@b9afc07]" name="loginsa" duration-ms="2253" started-at="2021-08-21T23:14:30 AEST" finished-at="2021-08-21T23:14:32 AEST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginsa -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.Testcases.BankManagerLogin@b9afc07]" name="tearDown" is-config="true" duration-ms="823" started-at="2021-08-21T23:14:32 AEST" finished-at="2021-08-21T23:14:33 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.Testcases.BankManagerLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+com\w2a\utilities\DataProviderr.class
+com\w2a\Testcases\OpenAccount.class
+com\w2a\utilities\extentReports.class
+com\w2a\utilities\excelReader.class
+com\w2a\Listeners\listners.class
+com\w2a\utilities\CaptureScreenshot.class
+com\w2a\rough\callXcel.class
+com\w2a\Base\TestBase.class
+com\w2a\Testcases\BankManagerLogin.class
+com\w2a\Testcases\addCustomer.class
+com\w2a\rough\TestProperties.class
